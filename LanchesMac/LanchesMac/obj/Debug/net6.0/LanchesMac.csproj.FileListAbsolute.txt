@@ -1,0 +1,52 @@
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.Development.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.staticwebassets.runtime.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.exe
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.deps.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.runtimeconfig.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\ref\LanchesMac.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.pdb
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.GeneratedMSBuildEditorConfig.editorconfig
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfoInputs.cache
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfo.cs
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CoreCompileInputs.cache
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cache
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cs
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.build.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.development.json
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\bundle\LanchesMac.styles.css
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\ref\LanchesMac.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.genruntimeconfig.cache
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.staticwebassets.runtime.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.exe
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.deps.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.runtimeconfig.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.pdb
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\bundle\LanchesMac.styles.css
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\refint\LanchesMac.dll
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.genruntimeconfig.cache
+C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\ref\LanchesMac.dll
