@@ -1,6 +1,6 @@
 ﻿namespace LanchesMac.Models
 {
-    public class Lanches
+    public class Lanche
     {
         public int LancheId { get; set; }
         public string Nome { get; set; }
@@ -11,6 +11,9 @@
         public string ImagemThumbnailUrl { get; set; }
         public string IsLanchePreferido { get; set; }
         public string EmEstoque { get; set; }
+
+        public int CategoriaId { get; set; }
+        public virtual Categoria Categoria { get; set; }    
     
     }
 }
