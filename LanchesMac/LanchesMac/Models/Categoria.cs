@@ -6,7 +6,5 @@
         public string CategoriaNome { get; set; }
         public int Descricao { get; set; }
 
-        public List <Lanche> Lanches { get; set; }
-
     }
 }

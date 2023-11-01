@@ -1,15 +1,6 @@
-﻿using LanchesMac.Models;
-using Microsoft.EntityFrameworkCore;
-
-namespace LanchesMac.Context
+﻿namespace LanchesMac.Context
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
-            { }
-
-        public DbSet<Categoria> categorias { get; set; }
-        public DbSet<Lanche> lanches { get; set; }
-
     }
 }
