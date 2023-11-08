@@ -24,29 +24,97 @@ D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\ref\LanchesMac.dll
 D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
 D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.genruntimeconfig.cache
 D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.AssemblyReference.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.staticwebassets.runtime.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.exe
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.deps.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.runtimeconfig.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.dll
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.pdb
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.AssemblyReference.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfoInputs.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfo.cs
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CoreCompileInputs.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cs
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\bundle\LanchesMac.styles.css
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.dll
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\refint\LanchesMac.dll
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.genruntimeconfig.cache
-C:\Users\Geeêh Luis\Desktop\Projetos\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\ref\LanchesMac.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Humanizer.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\_net6\_projeto\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CopyComplete
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\appsettings.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.staticwebassets.runtime.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.exe
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.deps.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.runtimeconfig.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\LanchesMac.pdb
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.RazorAssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\bundle\LanchesMac.styles.css
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\scopedcss\projectbundle\LanchesMac.bundle.scp.css
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.csproj.CopyComplete
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\refint\LanchesMac.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.pdb
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\LanchesMac.genruntimeconfig.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\VendaLanches\LanchesMac\LanchesMac\obj\Debug\net6.0\ref\LanchesMac.dll
